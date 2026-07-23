@@ -1,4 +1,4 @@
-# AI_Proj4032
+# Models Comparison
 
 # Project Summary
 This project presents a machine learning solution for predicting diabetes based on a patient's medical data. The main goal is to build an accurate and reliable classification model that can serve as a supportive tool in the early diagnosis of diabetes. The project covers all stages, from data preprocessing to model comparison.
